@@ -10,4 +10,6 @@ public class Dat22agithubApplication {
         SpringApplication.run(Dat22agithubApplication.class, args);
     }
 
+    // FREYA ER EN HACKER!!
+
 }
