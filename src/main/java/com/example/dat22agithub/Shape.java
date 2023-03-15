@@ -2,6 +2,9 @@ package com.example.dat22agithub;
 
 import java.util.Random;
 
+
+// komment
+
 public class Shape {
 
     protected enum Tetrominoe {
