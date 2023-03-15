@@ -15,12 +15,12 @@ public class HomeController {
 
     @GetMapping("/")
         public static void main(String[] args) {
-        List<String> characters = List.of("a hedgehog", "an alien", "a superhero", "a talking rock", "a pirate");
-        List<String> actions = List.of("tried to learn salsa dancing", "entered a hot-dog-eating contest", "adopted a pet unicorn", "started a successful cat grooming business", "became an instant TikTok star");
-        List<String> places = List.of("in a parallel universe", "on a remote island", "inside a giant donut", "in an underground lair", "at the top of Mount Everest");
-        List<String> plotTwists = List.of("when suddenly, they discovered they had the ability to time travel", "when they accidentally created a black hole", "when they found a genie in a soda can", "when they stumbled upon a secret treasure map", "when they won the lottery");
+            List<String> characters = List.of("a hedgehog", "an alien", "a superhero", "a talking rock", "a pirate");
+            List<String> actions = List.of("tried to learn salsa dancing", "entered a hot-dog-eating contest", "adopted a pet unicorn", "started a successful cat grooming business", "became an instant TikTok star");
+            List<String> places = List.of("in a parallel universe", "on a remote island", "inside a giant donut", "in an underground lair", "at the top of Mount Everest");
+            List<String> plotTwists = List.of("when suddenly, they discovered they had the ability to time travel", "when they accidentally created a black hole", "when they found a genie in a soda can", "when they stumbled upon a secret treasure map", "when they won the lottery");
 
-        Random random = new Random();
+            Random random = new Random();
 
         // Create a scanner object to get user input
         Scanner scanner = new Scanner(System.in);
@@ -39,6 +39,8 @@ public class HomeController {
 
             System.out.println(story);
         }
+        scanner.close();
+    }
 
 
     }
@@ -66,19 +68,19 @@ public class HomeController {
 
 
 
+    // kommentar fra github
+
+    // laskjdlsajlkasdjlsad
+    // ksdfjhkjfhkdfjhs
+
+    // kdshfkhsdkjhfkshdfj
 
 
+    /// shdkhlsdkfhj skdfjhsdkjflhksdhfj
+
+    // kjsdfhlkjdfhsjkdfhlsjkfdh
 
 
-
-
-
-
-
-
-
-
-
-
-
+    /// hksdjfsljdfsdjkfhlskjfdh
+    
 }
