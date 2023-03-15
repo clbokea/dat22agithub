@@ -50,6 +50,10 @@ public class HomeController {
         return "";
     }
 
+    private int hup(){
+        return 12;
+    }
+
 }
 
 
