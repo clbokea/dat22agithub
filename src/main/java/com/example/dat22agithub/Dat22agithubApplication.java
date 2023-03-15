@@ -12,4 +12,7 @@ public class Dat22agithubApplication {
 
     // FREYA ER EN HACKER!!
 
+
+    //OG FREYA ER EN JYDE!!
+    // 2 + 2 = 4
 }
