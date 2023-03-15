@@ -29,6 +29,10 @@ public class HomeController {
             System.out.println(story);
         }
 
+        public String msg(){
+            return  "";
+        }
+
     // kommentar om kode
     
     // kommentar fra github
@@ -37,5 +41,13 @@ public class HomeController {
     // ksdfjhkjfhkdfjhs
 
     // kdshfkhsdkjhfkshdfj
+
+
+    /// shdkhlsdkfhj skdfjhsdkjflhksdhfj
+
+    // kjsdfhlkjdfhsjkdfhlsjkfdh
+
+
+    /// hksdjfsljdfsdjkfhlskjfdh
     
 }
