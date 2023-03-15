@@ -45,6 +45,11 @@ public class HomeController {
     public String login(){
         return "";
     }
+
+    private String msg(){
+        return "";
+    }
+
 }
 
 
