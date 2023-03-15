@@ -1,5 +1,6 @@
 package com.example.dat22agithub;
 
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -39,9 +40,6 @@ public class HomeController {
             System.out.println("\nStory " + (i + 1) + ":");
             System.out.println(story);
         }
-
-        // Close the scanner
         scanner.close();
     }
-
 }
